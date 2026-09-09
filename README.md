@@ -8,13 +8,16 @@ An advanced, multi-page **Power BI** business intelligence solution built to ana
 ## 📷 Dashboard Previews
 
 ### 1. Executive Summary View
-![Executive Summary](images/executive_summary.png)
+<img width="1418" height="808" alt="Excutive Summary" src="https://github.com/user-attachments/assets/3ade762d-90fa-4528-b1de-53f44f49c17d" />
+
 
 ### 2. Interactive Filter Pane (Bookmarks & Selection Pane)
-![Filter Pane](images/filter_pane.png)
+<img width="1414" height="790" alt="Filter" src="https://github.com/user-attachments/assets/7e1bfc5c-c641-4381-8ee6-c81c559658c8" />
+
 
 ### 3. Product & Logistics Analysis View
-![Product Analysis](images/product_analysis.png)
+<img width="1450" height="810" alt="Product Analysis" src="https://github.com/user-attachments/assets/17c0cd81-1b00-4848-8a41-68333b4e63ef" />
+
 
 ---
 
